@@ -16,6 +16,8 @@ You can changes the image size from the setting page of the plugin under Setting
 
 Please report any bugs @ http://dineshkarki.com.np/plugins/featured-image-in-rss-feed/report-bugs.
 
+Thanks to <a href="http://wework4web.com" target="_blank">wework4web</a> for supporting plugin developement.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/` directory
