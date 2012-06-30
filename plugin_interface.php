@@ -2,7 +2,7 @@
 // create custom plugin settings menu
 add_action('admin_menu', 'fir_create_menu');
 
-if ($_POST['license_submit']){
+if ($_POST['fir_license_submit']){
 	$license_key_return = wp_remote_fopen('http://dineshkarki.com.np/license/validate_key.php?license_key='.$_POST['fir_license_key']);
 	$license_key_return = json_decode($license_key_return);
 	if (!empty($license_key_return)){
@@ -134,7 +134,7 @@ if (!empty($license_message)){
         <tr valign="top">
         <td>Key</td>
         <td>
-        <input type="text" maxlength="40" style="width:300px;" name="fir_license_key" /><input name="license_submit" class="button-primary" type="submit" value="Activate" />
+        <input type="text" maxlength="40" style="width:300px;" name="fir_license_key" /><input name="fir_license_submit" class="button-primary" type="submit" value="Activate" />
         </td>
         </tr>
         <?php endif; ?>
