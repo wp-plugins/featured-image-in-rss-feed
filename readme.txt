@@ -1,9 +1,10 @@
 === Featured Image In RSS Feed ===
 Contributors: dnesscarkey
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TYPYWFP6P2KQJ
 Tags: featured image, rss, feed
 Requires at least: 3.0.
 Tested up to: 3.4.1
-Stable tag: 0.2
+Stable tag: 0.3
 
 This plugin adds featured image to your rss feed
 
@@ -12,10 +13,6 @@ This plugin adds featured image to your rss feed
 This Plugin adds featured image to your rss feed.
 
 You can changes the image size from the setting page of the plugin under Settings > Image In RSS Feed. By default the plugin uses thumbnail size.
-
-Needs Activation Key from Version 0.2.
-Comes With 30 Days Trial Period.
-Offer your price ($0 to $100) and get the license key from <a href="http://dineshkarki.com.np/license" target="_blank">here</a>
 
 Please report any bugs @ http://dineshkarki.com.np/plugins/featured-image-in-rss-feed/report-bugs.
 
@@ -38,7 +35,6 @@ Yes, you can change the image size from the settings page of the plugin.
 = 0.2 =
 * Fix Large Image Issue
 * Added Full Size Image
-* Added Activation Key System. Offer your price ($0 to $100) and get the license key from <a href="http://dineshkarki.com.np/license" target="_blank">here</a>
 
 = 0.1 =
 * First Release
