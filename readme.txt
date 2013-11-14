@@ -5,6 +5,7 @@ Tags: featured image, rss, feed, image in rss feed
 Requires at least: 3.0.
 Tested up to: 3.7.1
 Stable tag: 1.0
+License: GPLv2
 
 This plugin adds featured image to your rss feed
 
