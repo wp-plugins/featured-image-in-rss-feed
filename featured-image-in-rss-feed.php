@@ -4,7 +4,7 @@ Plugin Name: Featured Image In Rss Feed
 Plugin URI: http://dineshkarki.com.np/featured-image-in-rss-feed
 Description: Add Feature Image to your RSS Feed.
 Author: Dinesh Karki
-Version: 1.0
+Version: 2.0
 Author URI: http://www.dineshkarki.com.np
 */
 

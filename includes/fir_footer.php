@@ -93,6 +93,7 @@ Write us a review <a href="http://dineshkarki.com.np/forums/forum/featured-image
                 <tr>
                 	<td>
                     	<ol class="uaf_list">
+                        	<li> <a target="_blank" href="http://wordpress.org/plugins/wp-masonry-layout/">WP Masonry Layout (Pinterest Like Grid)</a></li>
                         	<li><a href="http://wordpress.org/plugins/use-any-font/" target="_blank">Use Any Font</a></li>
                             <li><a href="http://wordpress.org/extend/plugins/any-mobile-theme-switcher/" target="_blank">Any Mobile Theme Switcher</a></li>
                             <li><a href="http://wordpress.org/extend/plugins/jquery-validation-for-contact-form-7/" target="_blank">Jquery Validation For Contact Form 7</a></li>
@@ -100,6 +101,9 @@ Write us a review <a href="http://dineshkarki.com.np/forums/forum/featured-image
                             <li><a href="http://wordpress.org/extend/plugins/block-specific-plugin-updates/" target="_blank">Block Specific Plugin Updates</a></li>
                             <li><a href="http://wordpress.org/extend/plugins/remove-admin-bar-for-client/" target="_blank">Remove Admin Bar</a></li>
                             <li><a href="http://wordpress.org/extend/plugins/html-in-category-and-pages/" target="_blank">.html in category and page url</a></li>
+                            
+                            
+                           
                         </ol>
                     </td>
                 </tr>
